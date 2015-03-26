@@ -16,7 +16,7 @@
  */
 package com.radicales.sm100.protocol;
 
-import com.sun.org.apache.xerces.internal.parsers.DOMParser;
+//import com.sun.org.apache.xerces.internal.parsers.DOMParser;
 import java.io.IOException;
 import java.io.StringReader;
 import java.util.ArrayList;
